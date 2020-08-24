@@ -1,4 +1,4 @@
-# Spring MVC Maven for Platform.sh
+# Spring MVC and Scala for Platform.sh
 
 <p align="center">
 <a href="https://console.platform.sh/projects/create-project/?template=https://raw.githubusercontent.com/platformsh-examples/scala/master/.platform.template.yaml&utm_campaign=deploy_on_platform?utm_medium=button&utm_source=affiliate_links&utm_content=https://raw.githubusercontent.com/platformsh-examples/scala/master/.platform.template.yaml" target="_blank" title="Deploy with Platform.sh"><img src="https://platform.sh/images/deploy/deploy-button-lg-blue.svg"></a>

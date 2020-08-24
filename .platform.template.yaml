@@ -1,0 +1,26 @@
+version: 1
+
+info:
+  id: scala
+  name: Scala
+  description: |
+    <p>Scala is a general-purpose programming language providing support for both object-oriented programming and functional programming.</p>
+
+  tags:
+    - Java
+    - MicroProfile
+    - Maven
+
+  notes:
+    - heading: "Features"
+      content: |
+        Java 11<br />
+        MongoDB<br />
+        Automatic TLS certificates<br />
+        Maven-based build<br />
+
+initialize:
+  repository: git://github.com/platformsh-examples/scala.git@master
+  config: null
+  files: []
+  profile: MicroProfile
